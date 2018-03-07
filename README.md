@@ -46,7 +46,7 @@ Link para visualiazar: https://tipmk.github.io
  
 3) Criar um formulário para editar usuário
 
- 	a. Todos os campos do formulário devem ser validados com jquery;
+ 	a. Todos os campos do formulário devem ser validados com javascript;
 
  	b. O formulario deverá fazer o update por ajax;
 
