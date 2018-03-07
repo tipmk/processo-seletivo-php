@@ -26,7 +26,7 @@ Link para visualiazar: https://tipmk.github.io
  
 1) Criar um formulário para cadastrar usuário
 
- 	a. Todos os campos do formulário devem ser validados  com jquery;
+ 	a. Todos os campos do formulário devem ser validados HTML5 ou com JAVASCRIPT;
  
  	b. O formulario deverá fazer o cadastro por ajax;	
  
