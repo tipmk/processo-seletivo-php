@@ -22,6 +22,8 @@ Link para visualiazar: https://tipmk.github.io
 	b. O usuário pode ter até 2 números de telefones;	 
  	
 	c. Criar o banco de dados seguindo as regras de normalização;
+	
+	d. Campo para filtrar por nome, ou email;
 
  
 1) Criar um formulário para cadastrar usuário
