@@ -4,8 +4,9 @@ OBS: Todo código de interface necessário no teste, ja esta pronto.
 
 Link para visualiazar: https://tipmk.github.io
 
+Utilizar Jquery para programar as ações dos botões.
 
-1) Criar um banco de dados para receber os dados do usuário 
+1) Criar um banco de dados para receber os dados do usuário (Tabelas Separadas)
  	
 	a. O banco de dados precisa conter tabelas para armazenar as informações abaixo:
   	
@@ -17,7 +18,7 @@ Link para visualiazar: https://tipmk.github.io
   		
 		Data de Nascimento; 
   		
-		Endereço		 
+		Endereço (Logradouro, Numero, Complemento, Bairro, Cidade, Estado Cep, Pais)		 
  	
 	b. O usuário pode ter até 2 números de telefones;	 
  	
