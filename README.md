@@ -3,7 +3,6 @@
 OBS: 		
 - A vaga é para dar manutenção, e desenvolver novas funcionalidades nas ferramentas da empresa, por isso solicitado no teste, tecnologias utilizadas;		
 - Entregar o que conseguir fazer dentro do prazo, pois o que será avaliado é o nivel de conhecimento tecnico;	
-- O teste é para filtrar candidatos, assim evitar perca de tempo.
 
 Link para visualiazar: https://tipmk.github.io
 
